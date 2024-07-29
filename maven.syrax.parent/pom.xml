@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-syrax.parent</module>
+    </modules>
 </project>
